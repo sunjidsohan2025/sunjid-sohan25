@@ -70,4 +70,4 @@ text
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=BC8CFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Have+an+idea%3F+Let's+build+it.;git+commit+-m+%22hello%2C+world%22" alt="Typing footer"/> <br/> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=bc8cff&style=flat-square" alt="visitors"/> </div> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=BC8CFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Have+an+idea%3F+Let's+build+it.;git+commit+-m+%22hello%2C+world%22" alt="Typing footer"/>  </div> 
