@@ -1,23 +1,4 @@
 <!-- ============================================================ SETUP 1. Create a PUBLIC repo named exactly like your GitHub username. 2. Upload this README.md and the /assets folder (header.svg, skills-marquee.svg, divider.svg) to the repo root. 3. Find & replace YOUR_USERNAME with your GitHub username. 4. Replace the remaining YOUR_... placeholders (email, projects, degree). ============================================================ --> <div align="center"> <img src="assets/header.svg" alt="Sunjid Sohan : Full Stack Developer and AI / RAG Engineer" width="100%"/> </div> <br/> <div align="center"> <img src="assets/skills-marquee.svg" alt="Technologies I work with" width="100%"/> </div> <br/> <div align="center"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/> </div> <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-🧬 developer.config.ts
-ts
-const sunjid: Developer = {
-  name: "Sunjid Sohan",
-  role: ["Full Stack Developer", "AI / RAG Engineer"],
-  currently: "IT Executive @ ICON Academic Care",
-
-  stack: {
-    frontend: ["React", "Next.js", "Tailwind CSS", "HTML", "CSS"],
-    backend:  ["Node.js", "Express.js", "Better Auth", "RBAC"],
-    data:     ["MongoDB + Mongoose", "PostgreSQL + Drizzle", "SQL", "Redis"],
-    ai:       ["LLMs", "RAG", "Vector Databases"],
-    devops:   ["Docker", "AWS", "Git & GitHub"],
-    mindset:  ["OOP", "TypeScript-first", "Secure by default"],
-  },
-
-  lookingFor: "Interesting problems in web + AI",
-  motto: () => ship(learn(build())),
-};
 
 🗺️ How I Build
 💡 Idea
