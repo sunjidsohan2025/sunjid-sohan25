@@ -31,7 +31,6 @@ const sunjid: Developer = {
 🧭 Vector DB
 🐳 Docker
 ☁️ AWS
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 🧰 Toolbox (click to expand)
 <details> <summary><b>🎨 Frontend</b> : interfaces people enjoy using</summary> <br/> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="frontend"/>
 
@@ -57,7 +56,7 @@ Containerized with Docker and deployed on AWS, versioned with Git and GitHub.
 🚀 Featured Projects
 <table> <tr> <td width="33%" valign="top"> <h3>🔹 YOUR_PROJECT_ONE</h3> YOUR_DESCRIPTION<br/><br/> <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code><br/><br/> <a href="https://github.com/YOUR_USERNAME/project-one">View code →</a> </td> <td width="33%" valign="top"> <h3>🔹 YOUR_PROJECT_TWO</h3> YOUR_DESCRIPTION<br/><br/> <code>React</code> <code>Express</code> <code>MongoDB</code><br/><br/> <a href="https://github.com/YOUR_USERNAME/project-two">View code →</a> </td> <td width="33%" valign="top"> <h3>🔹 YOUR_PROJECT_THREE</h3> YOUR_DESCRIPTION<br/><br/> <code>LLM</code> <code>RAG</code> <code>Vector DB</code><br/><br/> <a href="https://github.com/YOUR_USERNAME/project-three">View code →</a> </td> </tr> </table> <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 📊 Live Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Activity graph" width="100%"/> </div> <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Activity graph" width="100%"/> </div> <div align="center">
 🧭 Journey
 text
  NOW ──●── IT Executive          @ ICON Academic Care
@@ -71,4 +70,4 @@ text
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=BC8CFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Have+an+idea%3F+Let's+build+it.;git+commit+-m+%22hello%2C+world%22" alt="Typing footer"/> <br/> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=bc8cff&style=flat-square" alt="visitors"/> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=BC8CFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Have+an+idea%3F+Let's+build+it.;git+commit+-m+%22hello%2C+world%22" alt="Typing footer"/> <br/> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=bc8cff&style=flat-square" alt="visitors"/> </div> 
