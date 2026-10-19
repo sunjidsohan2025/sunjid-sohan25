@@ -52,7 +52,7 @@ Retrieval-Augmented Generation pipelines: embed, store in a vector database, ret
 
 Containerized with Docker and deployed on AWS, versioned with Git and GitHub.
 
-</details> <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+</details>
 🚀 Featured Projects
 <table> <tr> <td width="33%" valign="top"> <h3>🔹 YOUR_PROJECT_ONE</h3> YOUR_DESCRIPTION<br/><br/> <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code><br/><br/> <a href="https://github.com/YOUR_USERNAME/project-one">View code →</a> </td> <td width="33%" valign="top"> <h3>🔹 YOUR_PROJECT_TWO</h3> YOUR_DESCRIPTION<br/><br/> <code>React</code> <code>Express</code> <code>MongoDB</code><br/><br/> <a href="https://github.com/YOUR_USERNAME/project-two">View code →</a> </td> <td width="33%" valign="top"> <h3>🔹 YOUR_PROJECT_THREE</h3> YOUR_DESCRIPTION<br/><br/> <code>LLM</code> <code>RAG</code> <code>Vector DB</code><br/><br/> <a href="https://github.com/YOUR_USERNAME/project-three">View code →</a> </td> </tr> </table> 
 📊 Live Stats
