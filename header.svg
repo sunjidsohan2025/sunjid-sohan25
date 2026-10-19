@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img" aria-label="Terminal intro: Sunjid Sohan, Full Stack Developer and AI / RAG Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#bc8cff"/>
+      <stop offset="100%" stop-color="#ff7b72"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#bc8cff" stop-opacity="0.15"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#21262d" stroke-width="1"/>
+    </pattern>
+    <clipPath id="c1"><rect x="40" y="60" height="32" width="0"><animate attributeName="width" calcMode="discrete" values="0;12;24;36;48;60;72;84;96" dur="0.9s" begin="0.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="40" y="98" height="68" width="0"><animate attributeName="width" calcMode="discrete" values="0;32;63;95;127;158;190;222;253;285;317;348;380" dur="1.5s" begin="1.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="40" y="170" height="30" width="0"><animate attributeName="width" values="0;560" dur="1.6s" begin="3.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="40" y="214" height="26" width="0"><animate attributeName="width" values="0;400" dur="1.2s" begin="4.9s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="898" height="278" rx="16" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="898" height="278" rx="16" fill="url(#grid)" opacity="0.6"/>
+  <path d="M1 17 a16 16 0 0 1 16 -16 h866 a16 16 0 0 1 16 16 v22 h-898 z" fill="#161b22"/>
+  <circle cx="28" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="50" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="72" cy="20" r="6" fill="#27c93f"/>
+  <text x="450" y="25" text-anchor="middle" font-family="Fira Code, SFMono-Regular, Consolas, monospace" font-size="13" fill="#8b949e">sunjid@portfolio: ~</text>
+
+  <!-- typed lines -->
+  <g font-family="Fira Code, SFMono-Regular, Consolas, monospace">
+    <text x="40" y="85" font-size="20" fill="#7ee787" clip-path="url(#c1)">$ whoami</text>
+    <text x="40" y="150" font-size="52" font-weight="700" fill="url(#tg)" clip-path="url(#c2)">Sunjid Sohan</text>
+    <text x="40" y="192" font-size="20" fill="#c9d1d9" clip-path="url(#c3)">&gt; Full Stack Developer · AI / RAG Engineer</text>
+    <text x="40" y="232" font-size="16" fill="#8b949e" clip-path="url(#c4)">IT Executive @ ICON Academic Care</text>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="361" y="217" width="9" height="18" fill="#7ee787" opacity="0">
+    <animate attributeName="opacity" calcMode="discrete" values="1;0;1" keyTimes="0;0.5;1" dur="1s" begin="6.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- orbit emblem -->
+  <g transform="translate(775 160)">
+    <circle r="78" fill="none" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="4 9" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="54" fill="none" stroke="#bc8cff" stroke-width="1.5" stroke-dasharray="2 7" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/>
+      <circle cx="78" cy="0" r="5" fill="#58a6ff"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="6s" repeatCount="indefinite"/>
+      <circle cx="54" cy="0" r="4" fill="#bc8cff"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="90" to="450" dur="13s" repeatCount="indefinite"/>
+      <circle cx="78" cy="0" r="3" fill="#7ee787"/>
+    </g>
+    <circle r="30" fill="url(#core)">
+      <animate attributeName="r" values="28;33;28" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text y="7" text-anchor="middle" font-family="Fira Code, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="700" fill="#ffffff">&lt;/&gt;</text>
+  </g>
+
+  <!-- twinkling particles -->
+  <g fill="#58a6ff">
+    <circle cx="640" cy="70" r="2"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="85" r="2"><animate attributeName="opacity" values="1;0.1;1" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="690" cy="248" r="2"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="865" cy="240" r="2"><animate attributeName="opacity" values="1;0.1;1" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="160" r="1.5"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.5s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
