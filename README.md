@@ -18,7 +18,7 @@ const sunjid: Developer = {
   lookingFor: "Interesting problems in web + AI",
   motto: () => ship(learn(build())),
 };
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
 🗺️ How I Build
 💡 Idea
 ⚛️ React / Next.js UI
